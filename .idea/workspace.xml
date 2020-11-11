@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d8bab6-f76b-4138-bd54-c6906f5b1605" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9nNkTzu9iweRuKlAoPqbnCIRo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d8bab6-f76b-4138-bd54-c6906f5b1605" name="Default Changelist" comment="" />
+      <created>1605121636598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605121636598</updated>
+      <workItem from="1605121658635" duration="1171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1864" height="928" key="dock-window-1" timestamp="1605122830427">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="92" y="92" width="1864" height="928" key="dock-window-1/-1920.72.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1605122830427" />
+    <state x="92" y="92" width="1864" height="928" key="dock-window-2" timestamp="1605122830427">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="92" y="92" width="1864" height="928" key="dock-window-2/-1920.72.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1605122830427" />
+  </component>
+</project>
